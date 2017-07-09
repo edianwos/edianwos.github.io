@@ -16,7 +16,7 @@
 title: inf{T}=0
 email: edianwos@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is Jinhoon Jeong's personal page.
+  This is Jinhoon Jeong's personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
