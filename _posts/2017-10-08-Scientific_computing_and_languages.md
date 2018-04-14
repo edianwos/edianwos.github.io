@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scientific Computing 과 Javascript
-categories: scientific computing
+categories: hobby 
 ---
 
 나는 언젠가 javascript가 현재의 python을 대체하고 scientific computing의 왕좌를
