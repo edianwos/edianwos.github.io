@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 우분투에서 Elementary OS로 이전했다.
-categories: hobby
+categories: Hobby
 ---
 
 우분투 생김새가 너무 별로라서 [Elementary OS](https://elementary.io/)로 갈아탔는데, 꽤 만족스럽다.
