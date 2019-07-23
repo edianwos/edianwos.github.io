@@ -24,8 +24,8 @@ url: https://edianwos.github.io # the base hostname & protocol for your site, e.
 github_username:  edianwos
 
 paginate: 5
-#disqus:
-#    shortname: edianwos
+disqus:
+    shortname: edianwos
 
 # Build settings
 markdown: kramdown
